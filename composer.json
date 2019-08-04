@@ -1,10 +1,10 @@
 {
-    "name": "nwidart/auth",
+    "name": "nagahshi/laravel-mod-auth",
     "description": "",
     "authors": [
         {
-            "name": "Nicolas Widart",
-            "email": "n.widart@gmail.com"
+            "name": "Willian C. Klein(billy)",
+            "email": "willian.empari@gmail.com"
         }
     ],
     "extra": {
@@ -13,7 +13,7 @@
                 "Auth\\Auth\\Providers\\AuthServiceProvider"
             ],
             "aliases": {
-                
+
             }
         }
     },
