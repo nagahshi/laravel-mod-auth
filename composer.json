@@ -7,6 +7,13 @@
             "email": "willian.empari@gmail.com"
         }
     ],
+    "require": {
+        "laravel/socialite": "^4.1",
+        "nwidart/laravel-modules": "^5.0",
+        "spatie/laravel-fractal": "^5.5",
+        "tymon/jwt-auth": "dev-develop#6e9457185ef4e4ff52eb54a73a64be58aa46847b",
+        "webpatser/laravel-uuid": "^3.0"
+    },
     "extra": {
         "laravel": {
             "providers": [
